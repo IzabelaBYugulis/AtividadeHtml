@@ -1,0 +1,35 @@
+body {
+    background-color: #FFF7D4;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../imagem/cabecalhos.png");
+    
+    background-repeat: repeat-y;
+    
+}
+h1, h2{
+    color: #8F6800;
+    margin-left: 150px;
+    padding: auto;
+}
+hr {
+    margin-left: 150px;
+    padding: auto;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #D38D00;
+}
+h3{
+    padding: auto;
+    margin-left: 150px;
+    color: #ffff;
+    background-color: #D38D00;
+    padding: 10px 20px;
+   
+    
+    
+}
+p{
+    margin-left: 180px;
+    padding: auto;
+}
+
